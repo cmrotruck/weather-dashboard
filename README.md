@@ -13,7 +13,7 @@ A website that uses 3rd party api to get weather and gives 5 day forcast
 *3rd party APIs
 
 ## Website
-http://
+https://cmrotruck.github.io/weather-dashboard/
 
 ## Contributions
 Made with ❤️ by Chad Rotruck
