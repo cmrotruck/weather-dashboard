@@ -1,0 +1,84 @@
+@card-color: #33475A;
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+header{
+    background-color: #3452A4;
+    color: white;
+    height: 50px;
+    background: linear-gradient(to right,#3B6DC3 0%, #281D6D 95%);
+    font-weight: bolder;
+    font-size: 34px;
+}
+h4{
+    font-size: 20px;
+}
+
+input{
+    /* margin: 0 0 0 10px; */
+    width: 100%;
+    border-radius: 5px;
+}
+
+button{
+    border-radius: 5px;
+    width: 100%;
+}
+
+.search{
+    padding-top: 2%;
+}
+
+.search-button{
+    background-color: #5da8f3;
+    color: white;
+    margin-top: 10px;
+}
+
+.left-side{
+    /* background-color: green; */
+}
+ 
+.city-buttons{
+    border-top: 2px solid black;
+    margin-top: 5%;
+    padding-top: 5%;
+}
+
+.city{
+    background-color: #d8d8d8;
+    margin-bottom: 10px;
+    height: 35px;
+}
+    
+.right-side{
+    /* background-color: red; */
+}
+
+.search-results-today{
+    background-color: white;
+    border: 2px solid gray;
+}
+
+.five-day-forcast-header{
+    font-size: 24px;
+    display: inline-flex;
+}
+
+.five-day-forcast{
+   display: flex;
+   justify-content: space-between;
+}
+
+.day-card{
+    background-color: #33475A;
+    color: white;
+    width: 30%;
+    text-align: left;
+    /* flex-direction: row;     */
+}
